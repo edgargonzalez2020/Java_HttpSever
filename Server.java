@@ -2,6 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 class Server {
+  // This is just so that we can make the port variable
   public static int port = 6789;
   
   public static void main(String[] args) throws Exception {
